@@ -1,38 +1,14 @@
-# Gas Filling Station Management Using CRM
+<div align="center"><h1>⛽ GAS FILLING STATION — CRM DOSSIER</h1><b>Evidence-led project archive</b><img src="https://img.shields.io/badge/ARCHIVE-PDF%20%2B%20SCREENSHOTS-315B75?style=for-the-badge"/></div>
 
-**Project dossier · CRM development · Documentation and screen evidence**
+## Evidence wall
+<table><tr><td align="center"><h2>📘</h2><b>Project document</b><br/><a href="SI-32447-1757150089%20%282%29.pdf">Open original PDF</a></td><td align="center"><h2>🖼️</h2><b>Interface gallery</b><br/><a href="New%20folder/">Browse 29 PNG screenshots</a></td></tr></table>
 
-## At a glance
+## Review sequence
+<p align="center">01 READ PDF → 02 INSPECT SCREENS → 03 COMPARE SCOPE → 04 RECORD GAPS</p>
 
-This repository preserves the supplied project documentation and available application screenshots for a project titled *Application to Make the Gas Filling Station Easy Using CRM Developer*.
+## Inventory
+- One original project PDF.
+- Twenty-nine retained PNG screenshots.
+- A previously identified duplicate screenshot was removed.
 
-It is an evidence repository. It does not contain the application's source code or configuration files, so implementation details should be read from the original documentation and visible screenshots rather than inferred.
-
-## Evidence register
-
-| Artifact | Available material |
-|---|---|
-| Original project document | [Open project PDF](SI-32447-1757150089%20%282%29.pdf) |
-| Application evidence | [Browse screenshot folder](New%20folder/) |
-| Image count | 29 PNG files |
-
-The duplicate screenshot previously identified in the folder was removed; the retained original image remains available.
-
-## Suggested review path
-
-**01 — Read the project document**  
-Start with the PDF to understand the stated problem, project scope and described workflow.
-
-**02 — Review the application images**  
-Browse the screenshot folder and follow the visible sequence of screens. Compare what is shown with the functions described in the PDF.
-
-**03 — Separate evidence from implementation claims**  
-The images can show interface states, but they do not independently prove backend behaviour, database design, integrations, security or deployment.
-
-## Repository contents and limits
-
-The repository currently provides the project PDF and 29 PNG screenshots. Application source code, deployment files and configuration are not included. For that reason, this README does not claim that source-level implementation, integrations or runtime behaviour have been independently tested.
-
-## Author
-
-**Shanmukh Koyya** · [GitHub](https://github.com/shanmukhkoyya) · [LinkedIn](https://www.linkedin.com/in/shanmukh-koyya/)
+> Scope transparency: Application source code and configuration are not included. Screenshots show visible interface states but do not independently prove backend logic, database design, integrations, security or deployment.
