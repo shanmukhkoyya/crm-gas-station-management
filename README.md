@@ -10,7 +10,7 @@ The original project document and the available screenshot files are provided fo
 
 | File or folder | Description |
 |---|---|
-| [Project PDF](SI-32447-1757150089%20(2).pdf) | Original project documentation |
+| [Project PDF](SI-32447-1757150089%20%282%29.pdf) | Original project documentation |
 | [Screenshot Evidence](New%20folder/) | Folder containing 30 PNG images |
 
 ## How to Review
