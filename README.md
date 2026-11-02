@@ -11,7 +11,7 @@ The original project document and the available screenshot files are provided fo
 | File or folder | Description |
 |---|---|
 | [Project PDF](SI-32447-1757150089%20%282%29.pdf) | Original project documentation |
-| [Screenshot Evidence](New%20folder/) | Folder containing 30 PNG images |
+| [Screenshot Evidence](New%20folder/) | Folder containing 29 PNG images |
 
 ## How to Review
 
@@ -21,7 +21,7 @@ The original project document and the available screenshot files are provided fo
 
 ## Repository Scope and Limitations
 
-The visible repository currently contains the project PDF and screenshot evidence. Application source code and configuration files are not included in the root-level repository contents, so implementation details should be confirmed from the PDF and screenshots rather than assumed.
+The visible repository currently contains the project PDF and 29 screenshot images. One identical duplicate image has been removed. Application source code and configuration files are not included in the root-level repository contents, so implementation details should be confirmed from the PDF and screenshots rather than assumed.
 
 ## Author
 
